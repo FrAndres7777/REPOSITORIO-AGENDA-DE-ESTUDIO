@@ -174,7 +174,7 @@ Viernes:comenzar el dia a 7:30 am
              De 4pm a 6pm clase de calculo integral
        Horas de Estudio:
                   de 1.30pm a  2.30pm informatica "teoria y practica programando" #pausas cada 30 minutos
-			de 8 a 9:30 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+			de 7:30 a 9:30 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
 			de 9:30pm a 11:30 pm introduccion a ing en telecomunicaciones"teoria y revisar activiades pendientes"
 
 
