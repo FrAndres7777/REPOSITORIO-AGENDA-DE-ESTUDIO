@@ -79,9 +79,9 @@ Miercoles : comenzar el dia a 7:30 am
                       de 8 a 10 pm algebra lineal "teoria y realizar ejercision practicos" # queda con el mismo tiempo ya que hay fecha d 				examen cerca
 
 Jueves: empezar el dia 6am 
-      clases:
-             De 8am - 10am clase de informatica (teoria)
-             De 12am a 2pm clase de algrebra lineal
+      clases: inasistencia debido a calamidad familiar
+#inasistencia por calamidad retomar             De 8am - 10am clase de informatica (teoria)
+#inasistencia por calamidad retomar           De 12am a 2pm clase de algrebra lineal
       Horas de Estudio:
                        de 4 pm a 5pm descubriendo la fisica "teoria" #umna hora para repasar temas para el quiz
                        de 8 a 10 pm calculo integral "teoria y realizar ejercision practicos" # pausas cada 30 minutos
@@ -94,9 +94,11 @@ Viernes:comenzar el dia a 7:30 am
                   de 1.30pm a  2.30pm informatica "teoria y practica programando" #pausas cada 30 minutos
 			de 8 a 9:30 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
 			de 9:30pm a 11:30 pm introduccion a ing en telecomunicaciones"teoria y revisar activiades pendientes"
-
-
-
+sabado : empezamos el dia 8:30
+		
+		de 9 a 11am ver la grabacion de la clase de informatica 
+		de 4 a 6 pm ver la grabacio n de la clase de algebra lineal.
+		
 27 de febrero- 3 marzo
 
 Lunes : iniciar dia a las 6am
