@@ -11,7 +11,7 @@ Lunes : iniciar dia a las 6am
              De 12am a 2pm clase alboratorio de informatica
       Horas de Estudio:
                        de 4 pm a 6pm informatica "teoria y practica programando" #pausas cada 30 minutos
-                       de 8 a 10 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+                       de 8 a 10  pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
 
 Martes: iniciar dia  a las 6am
        clases:
@@ -19,12 +19,14 @@ Martes: iniciar dia  a las 6am
              De 12am a 2pm clase de algrebra lineal
        Horas de Estudio:
                         de 4 pm a 6pm descubriendo la fisica "teoria" #pausas cada 30 minutos
-                        de 8 a 10 pm calculo integral "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+#cambio de horas debido a acompañar a comprar a mi madre
+                        de 9 a 11 pm calculo integral "teoria y realizar ejercision practicos" # pausas cada 30 minutos
 
 Miercoles : comenzar el dia a 7:30 am 
       clases:
              De 10am - 12am clase de descubriendo la Fisica
-             De 4pm a 6pm clase de calculo integral
+ # Retomar no asisti a clase antes del viernees ver la grabacion 
+		De 4pm a 6pm clase de calculo integral
       Horas de Estudio:
                       de 1.30pm a  2.30pm informatica "teoria y practica programando" #pausas cada 30 minutos
                       de 8 a 10 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
@@ -35,7 +37,8 @@ Jueves: empezar el dia 6am
              De 12am a 2pm clase de algrebra lineal
       Horas de Estudio:
                        de 4 pm a 6pm descubriendo la fisica "teoria" #pausas cada 30 minutos
-                       de 8 a 10 pm calculo integral "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+                       de 8 a 10 pm calculo integral miramos la grabacion de la clase eprdida 
+				de 10 a 11 practico teoria de integral
 
 Viernes:comenzar el dia a 7:30 am 
        clases:            
