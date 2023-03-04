@@ -50,38 +50,40 @@ Viernes:comenzar el dia a 7:30 am
 			de 9:30pm a 11:30 pm introduccion a ing en telecomunicaciones"teoria y revisar activiades pendientes"
 
 
-20 de febrero- 20 febrero
+20 de febrero- 24 febrero
+ajustamos los tiempos de estudio intentando aprobechar mejor el tiempo en casos podemos agregar mas actividaesd de estudio
 
 Lunes : iniciar dia a las 6am
       clases:
              De 8am - 10am clase de introduccion a ing de telecomunicacoiones 
              De 12am a 2pm clase alboratorio de informatica
       Horas de Estudio:
-                       de 4 pm a 6pm informatica "teoria y practica programando" #pausas cada 30 minutos
-                       de 8 a 10 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+                       de 4 pm a 5:30pm informatica "teoria y practica programando" #tratamos que aprobemas el tiempo de mejor manera
+                       de 6 a 7.30 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+			     de 8 a 9 pm Estudio conceptos de programacion
 
 Martes: iniciar dia  a las 6am
        clases:
              De 8am - 10am clase de informatica (teoria)
              De 12am a 2pm clase de algrebra lineal
        Horas de Estudio:
-                        de 4 pm a 6pm descubriendo la fisica "teoria" #pausas cada 30 minutos
-                        de 8 a 10 pm calculo integral "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+                        de 4 pm a 6pm descubriendo la fisica "teoria" #lo dejo igula ya que debo entender mejor los conceptos
+                        de 8 a 9.30 pm calculo integral "teoria y realizar ejercision practicos" # me propongo ser mas hagil a la hora de realixar ejercicios para aprobechar el tiempo
 
 Miercoles : comenzar el dia a 7:30 am 
       clases:
              De 10am - 12am clase de descubriendo la Fisica
              De 4pm a 6pm clase de calculo integral
       Horas de Estudio:
-                      de 1.30pm a  2.30pm informatica "teoria y practica programando" #pausas cada 30 minutos
-                      de 8 a 10 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
+                      de 1.30pm a  2:30pm informatica "teoria y practica programando" #trato de aprobler de manera efeciente
+                      de 8 a 10 pm algebra lineal "teoria y realizar ejercision practicos" # queda con el mismo tiempo ya que hay fecha d 				examen cerca
 
 Jueves: empezar el dia 6am 
       clases:
              De 8am - 10am clase de informatica (teoria)
              De 12am a 2pm clase de algrebra lineal
       Horas de Estudio:
-                       de 4 pm a 6pm descubriendo la fisica "teoria" #pausas cada 30 minutos
+                       de 4 pm a 5pm descubriendo la fisica "teoria" #umna hora para repasar temas para el quiz
                        de 8 a 10 pm calculo integral "teoria y realizar ejercision practicos" # pausas cada 30 minutos
 
 Viernes:comenzar el dia a 7:30 am 
