@@ -184,7 +184,9 @@ Miercoles : comenzar el dia a 7:30 am
 
 Jueves: empezar el dia 6am 
       clases:
-             De 8am - 10am clase de informatica (teoria)
+# inasistencia clase de informatica estado de salud
+             
+De 8am - 10am clase de informatica (teoria)
              De 12am a 2pm clase de algrebra lineal
       Horas de Estudio:
                        de 4 pm a 6pm descubriendo la fisica "teoria" #pausas cada 30 minutos
@@ -193,15 +195,20 @@ Jueves: empezar el dia 6am
 Viernes:comenzar el dia a 7:30 am 
        clases:            
              De 10am - 12am clase de descubriendo la Fisica
-             De 4pm a 6pm clase de calculo integral
+
+#inasistencia debido a cita medica retomar el dia sabado
+
+			De 4pm a 6pm clase de calculo integral
        Horas de Estudio:
                   de 1.30pm a  2.30pm informatica "teoria y practica programando" #pausas cada 30 minutos
 			de 7:30 a 9:30 pm algebra lineal "teoria y realizar ejercision practicos" # pausas cada 30 minutos
 			de 9:30pm a 11:30 pm introduccion a ing en telecomunicaciones"teoria y revisar activiades pendientes"
 
 
-
-
+dia sabado:
+		 retomar clase de integra a las 10 a 12 am ;
+ 		repasar informatica  calkse pospuesta;
+		comenzar realizar practica de laboratorio informatica  que se pospuso  ;
           
 
      
